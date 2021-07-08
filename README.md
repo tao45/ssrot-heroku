@@ -57,3 +57,5 @@ https://github.com/ShadowsocksR-Live/shadowsocksr-native/wiki/%E5%AE%A2%E6%88%B7
 echo password=${PASSWORD}, path=${SECRET_PATH}, site=${APP_SITE}
 ```
 找回关键参数时，会发现它們就是你的预设值。
+
+
